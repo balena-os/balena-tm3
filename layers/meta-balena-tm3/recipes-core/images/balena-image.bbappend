@@ -7,6 +7,8 @@ IMAGE_ROOTFS_EXTRA_SPACE = "53248"
 IMAGE_ROOTFS_MAXSIZE="500000"
 SPLASH = ""
 
+BALENA_BOOT_PARTITION_FILES:remove = "balena-logo.png:/splash/balena-logo.png"
+
 BALENA_BOOT_PARTITION_FILES:append = " \
     boot.scr:/boot.scr \
     ${KERNEL_IMAGETYPE}${KERNEL_INITRAMFS}-${MACHINE}.bin:/${KERNEL_IMAGETYPE} \
