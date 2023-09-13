@@ -19,3 +19,6 @@
 	path = layers/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 	branch = kirkstone
+[submodule "layers/meta-tm3"]
+	path = layers/meta-tm3
+	url = https://github.com/bluechiptechnology/meta-tm3.git
