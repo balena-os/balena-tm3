@@ -3,7 +3,6 @@ FILESEXTRAPATHS:prepend := "${THISDIR}/files:"
 UBOOT_KCONFIG_SUPPORT = "1"
 inherit resin-u-boot
 
-
 SRC_URI:remove = " \
                   file://0001-riscv32-Use-double-float-ABI-for-rv32.patch \
                   file://0001-riscv-fix-build-with-binutils-2.38.patch \
@@ -11,3 +10,6 @@ SRC_URI:remove = " \
                   file://0001-fs-squashfs-sqfs_read-Prevent-arbitrary-code-executi.patch \
                   file://0001-fs-squashfs-Use-kcalloc-when-relevant.patch \
                  "
+SRC_URI += " \
+             file://boot.cmd \
+           "
