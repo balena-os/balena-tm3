@@ -18,6 +18,10 @@ else
     fi;
 fi;
 
+regulator dev vcc-wifi
+regulator value 3300000
+regulator enable
+
 load mmc ${mmc_bootdev}:1 ${fdt_addr_r} ${fdt_file}
 load ${resin_dev_type} ${resin_dev_index}:${resin_root_part} ${resin_kernel_load_addr} /boot/Image
 booti ${resin_kernel_load_addr} - ${fdt_addr_r}
