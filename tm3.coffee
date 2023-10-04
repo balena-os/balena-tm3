@@ -3,9 +3,9 @@ deviceTypesCommon = require '@resin.io/device-types/common'
 
 module.exports =
 	version: 1
-	slug: 'tm3'
-	aliases: [ 'tm3' ]
-	name: 'tm3'
+	slug: 'bluechiptechnology-tm3'
+	aliases: [ 'bluechiptechnologytm3' ]
+	name: 'Blue Chip Technology TM3'
 	arch: 'aarch64'
 	state: 'released'
 
@@ -15,10 +15,10 @@ module.exports =
 
 	yocto:
 		machine: 'tm3'
-		image: 'balena-image'
+		image: 'balena-image-flasher'
 		fstype: 'balenaos-img'
 		version: 'yocto-kirkstone'
-		deployArtifact: 'balena-image-tm3.balenaos-img'
+		deployArtifact: 'balena-image-flasher-tm3.balenaos-img'
 		compressed: true
 
 	configuration:
