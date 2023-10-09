@@ -1,4 +1,29 @@
 - commits:
+    - subject: Update contracts to a06c0ccb61620b3a805339c523f85f69a780b6a5
+      hash: 5f8d6223603c6bb7b1c4f7a78419f51ce2ecfd17
+      body: Update contracts
+      footer:
+        Changelog-entry: Update contracts to a06c0ccb61620b3a805339c523f85f69a780b6a5
+        changelog-entry: Update contracts to a06c0ccb61620b3a805339c523f85f69a780b6a5
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: "hw.device-type: Add bluechiptechnology-tm3"
+              hash: 68790a8618f57524be7ea70b7502d65917de91ad
+              body: ""
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+                signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+              author: crichardson
+          version: contracts-2.0.77
+          title: ""
+          date: 2023-10-09T06:33:17.864Z
+  version: 4.0.20+rev1
+  title: ""
+  date: 2023-10-09T08:56:36.091Z
+- commits:
     - subject: Update layers/meta-openembedded to
         a88cb922f91fda95e8a584cee3092083d5ad3e98
       hash: 63e55938cc586364157fb257f27618222c07b49f
