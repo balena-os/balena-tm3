@@ -1,6 +1,23 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v4.0.20
+## (2023-10-09)
+
+* Update layers/meta-openembedded to a88cb922f91fda95e8a584cee3092083d5ad3e98 [Self-hosted Renovate Bot]
+* Update layers/meta-balena to dda681a93a1e2459925d36fabcb8bd4c6f68363a [Self-hosted Renovate Bot]
+* Update coffee file [crichardson]
+* Update layers/meta-balena to 953223d8666ab4ca470e1e5def671a4d0c12cb50 [Self-hosted Renovate Bot]
+* Update layers/meta-balena to b1e2d7f34e4bffe2c6149b0a360cb226c6f644a7 [Self-hosted Renovate Bot]
+* Update balena-os/github-workflows to [Self-hosted Renovate Bot]
+* Update balena-os/github-workflows to v0.0.24 [Self-hosted Renovate Bot]
+* Update balena-os/github-workflows to v0.0.22 [Self-hosted Renovate Bot]
+* Update layers/poky to 0e4966eb77928a07230e031d6d9c477c01ec9cce [Self-hosted Renovate Bot]
+* Update layers/meta-openembedded to 9c5541f7e18a1fac3b8dea71e1ebb8398d58e6ff [Self-hosted Renovate Bot]
+* Update layers/meta-balena to 1c9c4813033186cefde51b9639edf7035f070c9d [Self-hosted Renovate Bot]
+* Update contracts to d68265ebeac98e7814829da7e7f6bb2a9aff8e39 [Self-hosted Renovate Bot]
+* Update balena-yocto-scripts to 29e8e0678085db54226956617ae66b59f5a28f8d [Self-hosted Renovate Bot]
+
 # v4.0.9
 ## (2023-09-16)
 

@@ -1,4 +1,120 @@
 - commits:
+    - subject: Update layers/meta-openembedded to
+        a88cb922f91fda95e8a584cee3092083d5ad3e98
+      hash: 63e55938cc586364157fb257f27618222c07b49f
+      body: Update layers/meta-openembedded
+      footer:
+        Changelog-entry: Update layers/meta-openembedded to
+          a88cb922f91fda95e8a584cee3092083d5ad3e98
+        changelog-entry: Update layers/meta-openembedded to
+          a88cb922f91fda95e8a584cee3092083d5ad3e98
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update layers/meta-balena to dda681a93a1e2459925d36fabcb8bd4c6f68363a
+      hash: 090c3ccb7a9c6d20fa5458a9d45f5e2bbe2f8e8a
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to dda681a93a1e2459925d36fabcb8bd4c6f68363a
+        changelog-entry: Update layers/meta-balena to dda681a93a1e2459925d36fabcb8bd4c6f68363a
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update coffee file
+      hash: 37e652ee48143d7e51ba461a54f70094878b42a9
+      body: ""
+      footer:
+        Changelog-entry: Update coffee file
+        changelog-entry: Update coffee file
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+    - subject: Update layers/meta-balena to 953223d8666ab4ca470e1e5def671a4d0c12cb50
+      hash: 8b600b5a3f9e440814e5f9b592eee0da56cc0c78
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 953223d8666ab4ca470e1e5def671a4d0c12cb50
+        changelog-entry: Update layers/meta-balena to 953223d8666ab4ca470e1e5def671a4d0c12cb50
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update layers/meta-balena to b1e2d7f34e4bffe2c6149b0a360cb226c6f644a7
+      hash: 5f68e95a645c5beea15595e3ef6d481b39b011f9
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to b1e2d7f34e4bffe2c6149b0a360cb226c6f644a7
+        changelog-entry: Update layers/meta-balena to b1e2d7f34e4bffe2c6149b0a360cb226c6f644a7
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update balena-os/github-workflows to
+      hash: 8b917ecb604964aa83bccd1b4049931826016f58
+      body: Update balena-os/github-workflows
+      footer:
+        Changelog-entry: Update balena-os/github-workflows to
+        changelog-entry: Update balena-os/github-workflows to
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update balena-os/github-workflows to v0.0.24
+      hash: 9488a326a79d6f559fda741d4feff1b698524bed
+      body: Update balena-os/github-workflows
+      footer:
+        Changelog-entry: Update balena-os/github-workflows to v0.0.24
+        changelog-entry: Update balena-os/github-workflows to v0.0.24
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update balena-os/github-workflows to v0.0.22
+      hash: af66e519f70a20ce4db0f19b5485a072c16d7222
+      body: Update balena-os/github-workflows
+      footer:
+        Changelog-entry: Update balena-os/github-workflows to v0.0.22
+        changelog-entry: Update balena-os/github-workflows to v0.0.22
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update layers/poky to 0e4966eb77928a07230e031d6d9c477c01ec9cce
+      hash: 4bac228d2697139ecdda3aad8a3764d90d28d841
+      body: Update layers/poky
+      footer:
+        Changelog-entry: Update layers/poky to 0e4966eb77928a07230e031d6d9c477c01ec9cce
+        changelog-entry: Update layers/poky to 0e4966eb77928a07230e031d6d9c477c01ec9cce
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update layers/meta-openembedded to
+        9c5541f7e18a1fac3b8dea71e1ebb8398d58e6ff
+      hash: c48451a03d5aa9e3c24d9bf8d0597d5600aaca20
+      body: Update layers/meta-openembedded
+      footer:
+        Changelog-entry: Update layers/meta-openembedded to
+          9c5541f7e18a1fac3b8dea71e1ebb8398d58e6ff
+        changelog-entry: Update layers/meta-openembedded to
+          9c5541f7e18a1fac3b8dea71e1ebb8398d58e6ff
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update layers/meta-balena to 1c9c4813033186cefde51b9639edf7035f070c9d
+      hash: e44740251b738599bdd2cb9aaa3e7e8cd2fd5ec7
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 1c9c4813033186cefde51b9639edf7035f070c9d
+        changelog-entry: Update layers/meta-balena to 1c9c4813033186cefde51b9639edf7035f070c9d
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update contracts to d68265ebeac98e7814829da7e7f6bb2a9aff8e39
+      hash: 6e257d14d3cc62130fbc485702980ed9e99014f5
+      body: Update contracts
+      footer:
+        Changelog-entry: Update contracts to d68265ebeac98e7814829da7e7f6bb2a9aff8e39
+        changelog-entry: Update contracts to d68265ebeac98e7814829da7e7f6bb2a9aff8e39
+      author: Self-hosted Renovate Bot
+      nested: []
+    - subject: Update balena-yocto-scripts to 29e8e0678085db54226956617ae66b59f5a28f8d
+      hash: fe6b5d7e0f2a9c0e171bf0562f8f4e6dc27da8d7
+      body: Update balena-yocto-scripts
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to 29e8e0678085db54226956617ae66b59f5a28f8d
+        changelog-entry: Update balena-yocto-scripts to 29e8e0678085db54226956617ae66b59f5a28f8d
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 4.0.20
+  title: ""
+  date: 2023-10-09T07:00:26.477Z
+- commits:
     - subject: Update layers/meta-balena to 8f952b7a5c8db38d6c674c2a0bef577c743ba2f0
       hash: ac6afa6905fc324b703c3217a35aad352ffcbda6
       body: Update layers/meta-balena
