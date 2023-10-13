@@ -1,4 +1,30 @@
 - commits:
+    - subject: Power on wifi adapter
+      hash: 19bfb492e2877ba8b38ab1ffc7edeededdf4117b
+      body: ""
+      footer:
+        Changelog-entry: Power on wifi adapter
+        changelog-entry: Power on wifi adapter
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+    - subject: Determine correct DTB automatically
+      hash: e519d981d0f04c362d0f4f358b868e5571fa6a7d
+      body: |
+        Probe I2C display controllers, to determine which DTB to load.
+        Alternatively use DTB from 'custom_fdt_file' variable, if specified.
+      footer:
+        Changelog-entry: Determine correct DTB automatically
+        changelog-entry: Determine correct DTB automatically
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 4.0.25+rev1
+  title: ""
+  date: 2023-10-13T08:10:45.996Z
+- commits:
     - subject: Update layers/meta-balena to 4b47f04ece3742de572dd04180e1e30744ed3980
       hash: 5a272ede8cb085b89f6ddeea69f8918d8fdb8b05
       body: Update layers/meta-balena

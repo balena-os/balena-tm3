@@ -1,6 +1,12 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v4.0.25+rev1
+## (2023-10-13)
+
+* Power on wifi adapter [crichardson]
+* Determine correct DTB automatically [crichardson]
+
 # v4.0.25
 ## (2023-10-12)
 
