@@ -18,6 +18,10 @@ else
     fi;
 fi;
 
+regulator dev dcdce
+regulator value 1400000
+regulator enable
+
 regulator dev vcc-wifi
 regulator value 3300000
 regulator enable
