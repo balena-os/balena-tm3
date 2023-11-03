@@ -1,4 +1,30 @@
 - commits:
+    - subject: Set ethernet MAC correctly
+      hash: 461dc38158e93db16431916edec3f12ad3e82e08
+      body: |
+        Sets the MAC address from OTP fuses
+      footer:
+        Changelog-entry: Set ethernet MAC correctly
+        changelog-entry: Set ethernet MAC correctly
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+    - subject: Increase RAM voltage to improve reliability
+      hash: b69ac54d8a30b338dea0ac2566ab626de85b4e6e
+      body: |
+        Increase RAM voltage and force RAM size temporarily
+      footer:
+        Changelog-entry: Increase RAM voltage to improve reliability
+        changelog-entry: Increase RAM voltage to improve reliability
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 4.1.2+rev2
+  title: ""
+  date: 2023-11-03T07:57:14.762Z
+- commits:
     - subject: Update layers/poky to b1ddd4178d469cf0c14e8c31d0fd2ba1b53bf293
       hash: 8ff4ce178670e2b5d4301d77030a595b0fd331f6
       body: Update layers/poky

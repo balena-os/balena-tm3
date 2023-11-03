@@ -1,6 +1,12 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v4.1.2+rev2
+## (2023-11-03)
+
+* Set ethernet MAC correctly [crichardson]
+* Increase RAM voltage to improve reliability [crichardson]
+
 # v4.1.2+rev1
 ## (2023-11-02)
 
