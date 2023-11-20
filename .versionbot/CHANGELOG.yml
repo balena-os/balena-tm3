@@ -1,4 +1,18 @@
 - commits:
+    - subject: Pass serial no. to kernel and allow custom MAC
+      hash: 2e1c8b77bdb812ad2594cdd00d37cc083acbb28a
+      body: ""
+      footer:
+        Changelog-entry: Pass serial no. to kernel and allow custom MAC
+        changelog-entry: Pass serial no. to kernel and allow custom MAC
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 4.1.7+rev1
+  title: ""
+  date: 2023-11-20T12:37:22.385Z
+- commits:
     - subject: Update layers/meta-balena to d40a0ca5875c474752cd94aae4e4fd9754b4781f
       hash: 1921f95ed2e2986b228c84a4fc80b69f0ec7bebf
       body: Update layers/meta-balena

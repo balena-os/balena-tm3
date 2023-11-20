@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v4.1.7+rev1
+## (2023-11-20)
+
+* Pass serial no. to kernel and allow custom MAC [crichardson]
+
 # v4.1.7
 ## (2023-11-17)
 
