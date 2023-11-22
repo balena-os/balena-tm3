@@ -1,4 +1,31 @@
 - commits:
+    - subject: Update contracts to c45079c380048f9f65967a68cf30f1654195384f
+      hash: 6e9d11306f58503998472b729e6a42536dc3d213
+      body: Update contracts
+      footer:
+        Changelog-entry: Update contracts to c45079c380048f9f65967a68cf30f1654195384f
+        changelog-entry: Update contracts to c45079c380048f9f65967a68cf30f1654195384f
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: "lcbzu9: boot from internal storage"
+              hash: d9b9fbc53be0f7dbf92107681540685db703821f
+              body: >
+                Make flasher image available for download to boot lcbzu9 from
+                eMMC
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Francois Loubser <francois.loubser@topic.nl>
+                signed-off-by: Francois Loubser <francois.loubser@topic.nl>
+              author: Francois Loubser
+          version: contracts-2.0.82
+          title: ""
+          date: 2023-11-22T09:57:10.502Z
+  version: 4.1.7+rev2
+  title: ""
+  date: 2023-11-22T12:54:03.128Z
+- commits:
     - subject: Pass serial no. to kernel and allow custom MAC
       hash: 2e1c8b77bdb812ad2594cdd00d37cc083acbb28a
       body: ""
