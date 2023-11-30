@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update layers/poky to 8dc22248a8257e974e40b454474028790d0a76a1
+      hash: 4cf572e5062d2ec065d5347f95ed7a6ff6f31511
+      body: Update layers/poky
+      footer:
+        Changelog-entry: Update layers/poky to 8dc22248a8257e974e40b454474028790d0a76a1
+        changelog-entry: Update layers/poky to 8dc22248a8257e974e40b454474028790d0a76a1
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 5.0.1+rev2
+  title: ""
+  date: 2023-11-30T09:14:30.690Z
+- commits:
     - subject: Update layers/meta-openembedded to
         8a75c61cce2aa1d6e5a3597ab8fc5a7e6aeae1e4
       hash: 1e4b92963cea2d9a1a944325261bd2ab331596e4
