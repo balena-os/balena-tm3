@@ -1,4 +1,34 @@
 - commits:
+    - subject: Update layers/meta-balena to 4e89f786a171b42546c254557c5f1283c71e9503
+      hash: 95fdb78ad2d4ce631894dda9b4e890ebab1c40b0
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 4e89f786a171b42546c254557c5f1283c71e9503
+        changelog-entry: Update layers/meta-balena to 4e89f786a171b42546c254557c5f1283c71e9503
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: "balena-rollback: If applicable, run device specific healthchecks"
+              hash: 58315e05dc6624eb393fc9e5e3d8b35541755bc3
+              body: |
+                We add a script which can be replaced by device repositories
+                to implement device-specific healthchecks. One usecase for this
+                test is the Jetson UEFI firmware update check,
+                but can be extended to all other devices as needed.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alexandru Costache <alexandru@balena.io>
+                signed-off-by: Alexandru Costache <alexandru@balena.io>
+              author: Alexandru Costache
+              nested: []
+          version: meta-balena-5.0.2
+          title: ""
+          date: 2023-11-30T16:33:10.689Z
+  version: 5.0.2
+  title: ""
+  date: 2023-11-30T21:24:01.033Z
+- commits:
     - subject: Update layers/poky to 8dc22248a8257e974e40b454474028790d0a76a1
       hash: 4cf572e5062d2ec065d5347f95ed7a6ff6f31511
       body: Update layers/poky
