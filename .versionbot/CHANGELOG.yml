@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove dhcpcd to avoid 2 DHCP clients
+      hash: 74845d3abac38ce6c36d507f9fcff9f105d72675
+      body: ""
+      footer:
+        Changelog-entry: Remove dhcpcd to avoid 2 DHCP clients
+        changelog-entry: Remove dhcpcd to avoid 2 DHCP clients
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 5.0.8+rev1
+  title: ""
+  date: 2023-12-11T13:57:38.261Z
+- commits:
     - subject: Update layers/meta-balena to e7a8680cc8db8bd7529ed389dd59999a1492c1aa
       hash: e9177b1bd8c208079b90d61311a9e45c37f48d02
       body: Update layers/meta-balena

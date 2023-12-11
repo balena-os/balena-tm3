@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.0.8+rev1
+## (2023-12-11)
+
+* Remove dhcpcd to avoid 2 DHCP clients [crichardson]
+
 # v5.0.8
 ## (2023-12-11)
 
