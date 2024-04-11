@@ -1,4 +1,29 @@
 - commits:
+    - subject: Update contracts to bdc5ec8ab29021205ce85c9b59f4952b1c4a1283
+      hash: ca8758879d7a3df7d53ed6e573ca40b548ff8d60
+      body: Update contracts
+      footer:
+        Changelog-entry: Update contracts to bdc5ec8ab29021205ce85c9b59f4952b1c4a1283
+        changelog-entry: Update contracts to bdc5ec8ab29021205ce85c9b59f4952b1c4a1283
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: Remove Fedora 36 since it's EOL
+              hash: 6c404c7f3e623650beb5c74ec0a4e31e9cac9c48
+              body: ""
+              footer:
+                Change-type: patch
+                change-type: patch
+                See: https://endoflife.date/fedora
+                see: https://endoflife.date/fedora
+              author: Thodoris Greasidis
+          version: contracts-2.0.102
+          title: ""
+          date: 2024-04-11T10:44:54.487Z
+  version: 5.1.46+rev19
+  title: ""
+  date: 2024-04-11T12:44:46.530Z
+- commits:
     - subject: Update contracts to 619554d6126d299a8349a065e49bcdbe855f3293
       hash: e0b3bac707bda98e783d28f56051f4c0581ebeaa
       body: Update contracts
