@@ -1,6 +1,12 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.1.46+rev21
+## (2024-04-17)
+
+* Add linaro toolchain [crichardson]
+* Support DDR4 [crichardson]
+
 # v5.1.46+rev20
 ## (2024-04-11)
 

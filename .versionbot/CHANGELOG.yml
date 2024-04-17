@@ -1,4 +1,31 @@
 - commits:
+    - subject: Add linaro toolchain
+      hash: db2cff9dec5f21ce2163f728e7b7bb1248e744bc
+      body: |
+        Add linaro toolchain for U-Boot
+      footer:
+        Changelog-entry: Add linaro toolchain
+        changelog-entry: Add linaro toolchain
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+    - subject: Support DDR4
+      hash: e94aa6a5e6f0d78c2ea2bd281dd3e53edb456ed9
+      body: |
+        Changes made to support DDR4 and improve eMMC
+        stability.
+      footer:
+        Changelog-entry: Support DDR4
+        changelog-entry: Support DDR4
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 5.1.46+rev21
+  title: ""
+  date: 2024-04-17T10:07:22.645Z
+- commits:
     - subject: Update contracts to d06ad25196f67c4d20ad309941192fdddf80e307
       hash: 32eb74ee2e9dc953996d97f9b5b3fe4c4ebe7076
       body: Update contracts
