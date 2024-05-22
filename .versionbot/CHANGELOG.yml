@@ -1,4 +1,19 @@
 - commits:
+    - subject: Update layers/meta-openembedded to
+        70b217ecc812296d98e1aa027a7d182a8019dded
+      hash: d9749b33c6d817158db718f16a6ee883bebe996e
+      body: Update layers/meta-openembedded
+      footer:
+        Changelog-entry: Update layers/meta-openembedded to
+          70b217ecc812296d98e1aa027a7d182a8019dded
+        changelog-entry: Update layers/meta-openembedded to
+          70b217ecc812296d98e1aa027a7d182a8019dded
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 5.1.46+rev33
+  title: ""
+  date: 2024-05-22T22:25:49.094Z
+- commits:
     - subject: Update layers/poky to e575d02196b0013c25f8064e4dbe3fc2a0ef72d0
       hash: 2e13d0a558a30bf9ed7994e4ee6fbf6f07fe723c
       body: Update layers/poky
