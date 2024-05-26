@@ -1,4 +1,21 @@
 - commits:
+    - subject: Avoid compilation error due to nfsfs and remove some warnings
+      hash: 6f6c2cc20b4c7ff8d05386844cea4f990d332eaa
+      body: |
+        Following commit is used to avoid -
+        ERROR: "fivm_open_verify" [fs/nfsd/nfsd.ko] undefined!
+        as well as removing some of the other warnings
+      footer:
+        Changelog-entry: Avoid compilation error due to nfsfs and remove some warnings
+        changelog-entry: Avoid compilation error due to nfsfs and remove some warnings
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 5.1.46+rev34
+  title: ""
+  date: 2024-05-26T07:04:12.230Z
+- commits:
     - subject: Update layers/meta-openembedded to
         70b217ecc812296d98e1aa027a7d182a8019dded
       hash: d9749b33c6d817158db718f16a6ee883bebe996e

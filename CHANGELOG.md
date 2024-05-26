@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.1.46+rev34
+## (2024-05-26)
+
+* Avoid compilation error due to nfsfs and remove some warnings [crichardson]
+
 # v5.1.46+rev33
 ## (2024-05-22)
 
