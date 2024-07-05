@@ -1,4 +1,50 @@
 - commits:
+    - subject: Update balena-yocto-scripts to 7e492de8e573786e21bb2dc14c7d2af89f6b1d54
+      hash: 3e3f3f88e26907da39c23670e724a7b0ed76e896
+      body: Update balena-yocto-scripts
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to 7e492de8e573786e21bb2dc14c7d2af89f6b1d54
+        changelog-entry: Update balena-yocto-scripts to 7e492de8e573786e21bb2dc14c7d2af89f6b1d54
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: use workflow run of PR head instead of statuses to determine test
+                results
+              hash: ad06820f4174568383678710fa68b2054da6db57
+              body: >
+                Since we have moved to workflows for tests instead of status
+                checks, we have to fetch the workflow runs for the appropriate
+                commit to determine a test pass/fail.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Ryan Cooke <ryan@balena.io>
+                signed-off-by: Ryan Cooke <ryan@balena.io>
+              author: rcooke-warwick
+              nested: []
+          version: balena-yocto-scripts-1.25.3
+          title: ""
+          date: 2024-07-05T12:42:09.570Z
+        - commits:
+            - subject: Remove dry-run flag from S3 upload
+              hash: cf0301996022ef58a9c19d40d002d72a1bbcf705
+              body: |
+                We are publishing hostapp releases to staging already, we should
+                start including the associated S3 files as well.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Kyle Harding <kyle@balena.io>
+                signed-off-by: Kyle Harding <kyle@balena.io>
+              author: Kyle Harding
+              nested: []
+          version: balena-yocto-scripts-1.25.2
+          title: ""
+          date: 2024-07-03T21:19:20.964Z
+  version: 5.3.24+rev1
+  title: ""
+  date: 2024-07-05T17:16:09.671Z
+- commits:
     - subject: Update layers/meta-balena to e1d709a6f00e8dd3271a3c84d9fb6430cedec485
       hash: 338b730bb7ff668261be330f9c6a28c93bcdcb9e
       body: Update layers/meta-balena

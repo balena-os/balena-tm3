@@ -1,6 +1,26 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.3.24+rev1
+## (2024-07-05)
+
+
+<details>
+<summary> Update balena-yocto-scripts to 7e492de8e573786e21bb2dc14c7d2af89f6b1d54 [Self-hosted Renovate Bot] </summary>
+
+> ## balena-yocto-scripts-1.25.3
+> ### (2024-07-05)
+> 
+> * use workflow run of PR head instead of statuses to determine test results [rcooke-warwick]
+> 
+> ## balena-yocto-scripts-1.25.2
+> ### (2024-07-03)
+> 
+> * Remove dry-run flag from S3 upload [Kyle Harding]
+> 
+
+</details>
+
 # v5.3.24
 ## (2024-07-04)
 
