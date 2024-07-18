@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+      hash: 2323caba9d7629b6ccb5639587db8c8938bb134f
+      body: Update layers/meta-arm
+      footer:
+        Changelog-entry: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+        changelog-entry: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 5.4.1+rev2
+  title: ""
+  date: 2024-07-18T18:06:54.357Z
+- commits:
     - subject: Update balena-yocto-scripts to d59fac4cce1dcff0b423ac97aeccbd7f4486b9c2
       hash: 2fa4adedd663bb8dc39ff9d514ad813bf92a7cdd
       body: Update balena-yocto-scripts
