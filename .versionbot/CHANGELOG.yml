@@ -1,4 +1,26 @@
 - commits:
+    - subject: Update layers/meta-balena to 137a7882c5f56d505ee5c757cedfb27ab20d89a8
+      hash: 7d183bbb1e5c1970e65fb13ed3c96da2ad10aa1c
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 137a7882c5f56d505ee5c757cedfb27ab20d89a8
+        changelog-entry: Update layers/meta-balena to 137a7882c5f56d505ee5c757cedfb27ab20d89a8
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: "patch: Fix broken links in CDS Docs"
+              hash: 1a9cee2069b3381eddbea606a5aeaa4a436f5643
+              body: ""
+              footer: {}
+              author: Vipul Gupta
+              nested: []
+          version: meta-balena-6.0.6
+          title: ""
+          date: 2024-07-25T10:23:04.133Z
+  version: 6.0.6
+  title: ""
+  date: 2024-07-25T13:32:47.039Z
+- commits:
     - subject: Update contracts to 1d499fe7d33791e1ac6dccfe031e178b7d520bb4
       hash: 0f145367a2e1f407e8704102f3e5047cd2b14335
       body: Update contracts
