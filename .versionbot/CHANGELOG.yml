@@ -1,4 +1,51 @@
 - commits:
+    - subject: Update layers/meta-balena to f2c72d6bbd312821f0bb97897fe7836c525950f7
+      hash: ca4ca940927ab8209da4875f04c988a48c9e67c1
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to f2c72d6bbd312821f0bb97897fe7836c525950f7
+        changelog-entry: Update layers/meta-balena to f2c72d6bbd312821f0bb97897fe7836c525950f7
+      author: balena-renovate[bot]
+      nested:
+        - commits:
+            - subject: Override the default commit body for digest updates
+              hash: 767ecdac82438fd9390628796100165902c8fe14
+              body: >
+                A commit body is provided for digest updates in the
+
+                top-level config here:
+                https://github.com/balena-os/renovate-config
+
+
+                So we must override the digest setting explicitly at the repo
+
+                level in order to use Change-type vs Changelog-entry
+              footer:
+                Change-type: patch
+                change-type: patch
+              author: Kyle Harding
+              nested: []
+          version: meta-balena-6.0.33
+          title: ""
+          date: 2024-09-22T20:57:17.943Z
+        - commits:
+            - subject: "kernel-headers-test: update dockerfile to bullseye"
+              hash: b1ba4caa955dc751d01e10e4159fde34dfb69f92
+              body: ""
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alex Gonzalez <alexg@balena.io>
+                signed-off-by: Alex Gonzalez <alexg@balena.io>
+              author: Alex Gonzalez
+              nested: []
+          version: meta-balena-6.0.32
+          title: ""
+          date: 2024-09-21T17:20:33.365Z
+  version: 6.0.33
+  title: ""
+  date: 2024-09-23T00:40:09.998Z
+- commits:
     - subject: Update layers/meta-balena to b3ab5311c0ad999dc896ab5b9a85e48098ddd3dc
       hash: c0d53f5730a7abd720b83222a7e1138816a297d9
       body: Update layers/meta-balena
