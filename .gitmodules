@@ -25,3 +25,7 @@
 [submodule "layers/meta-tm3"]
 	path = layers/meta-tm3
 	url = https://github.com/bluechiptechnology/meta-tm3.git
+[submodule "layers/meta-cyclonedx"]
+	path = layers/meta-cyclonedx
+	url = https://github.com/balena-os/meta-cyclonedx
+	branch = kirkstone
