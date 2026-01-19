@@ -11,6 +11,7 @@ BALENA_BOOT_PARTITION_FILES:append = " \
     u-boot-sunxi-with-spl.bin:/u-boot-sunxi-with-spl.bin \
     boot.scr:/boot.scr \
     ${KERNEL_IMAGETYPE}${KERNEL_INITRAMFS}-${MACHINE}.bin:/${KERNEL_IMAGETYPE} \
+    tm3-hb8-43-c.dtb:/tm3-hb8-43-c.dtb \
     tm3-hb8-7-c.dtb:/tm3-hb8-7-c.dtb \
     tm3-hb8-9-c.dtb:/tm3-hb8-9-c.dtb \
     tm3-hb8-12-c.dtb:/tm3-hb8-12-c.dtb \

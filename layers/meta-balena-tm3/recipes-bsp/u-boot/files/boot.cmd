@@ -27,7 +27,7 @@ else
     setenv hb hb8;
     i2c dev 0;
     if i2c probe 0x38; then
-        setenv fdt_file tm3-${hb}-7-c.dtb;
+        setenv fdt_file tm3-${hb}-43-c.dtb;
     elif i2c probe 0x41; then
         setenv fdt_file tm3-${hb}-9-c.dtb;
     elif i2c probe 0x2a; then
