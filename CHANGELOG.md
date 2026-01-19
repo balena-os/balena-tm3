@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v6.10.11+rev5
+## (2026-01-19)
+
+* Use 4.3c DTB if FT5x06 touchscreen controller is found [Florin Sarbu]
+
 # v6.10.11+rev4
 ## (2026-01-19)
 

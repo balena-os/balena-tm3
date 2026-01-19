@@ -1,4 +1,18 @@
 - commits:
+    - subject: Use 4.3c DTB if FT5x06 touchscreen controller is found
+      hash: 31161bcc0ef4097533cc04a21ef5f1e9695d4deb
+      body: ""
+      footer:
+        Changelog-entry: Use 4.3c DTB if FT5x06 touchscreen controller is found
+        changelog-entry: Use 4.3c DTB if FT5x06 touchscreen controller is found
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+      nested: []
+  version: 6.10.11+rev5
+  title: ""
+  date: 2026-01-19T16:22:00.728Z
+- commits:
     - subject: Update balena-yocto-scripts to cd15ea0a40c052c6afd138282fb3971d7da9ff08
       hash: 8c0a2a4c51cec9ceca522a1af41943381df0a9fe
       body: Update balena-yocto-scripts
