@@ -1,4 +1,29 @@
 - commits:
+    - subject: Update balena-yocto-scripts to a64a7325c164749c5fcdd46468d29b43f232c733
+      hash: 749ba06056a41fdcd9c568b0bbb21635bdf702ab
+      body: Update balena-yocto-scripts
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to a64a7325c164749c5fcdd46468d29b43f232c733
+        changelog-entry: Update balena-yocto-scripts to a64a7325c164749c5fcdd46468d29b43f232c733
+      author: balena-renovate[bot]
+      nested:
+        - commits:
+            - subject: Update Lock file maintenance
+              hash: e0f5cf7d521957afccf806f34e5c9eb4302762c2
+              body: |
+                Update 
+              footer:
+                Change-type: patch
+                change-type: patch
+              author: balena-renovate[bot]
+              nested: []
+          version: balena-yocto-scripts-1.39.16
+          title: ""
+          date: 2026-01-20T09:01:33.392Z
+  version: 6.10.11+rev6
+  title: ""
+  date: 2026-01-21T06:16:58.506Z
+- commits:
     - subject: Use 4.3c DTB if FT5x06 touchscreen controller is found
       hash: 31161bcc0ef4097533cc04a21ef5f1e9695d4deb
       body: ""
