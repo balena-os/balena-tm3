@@ -1,6 +1,63 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v6.10.20
+## (2026-01-26)
+
+
+<details>
+<summary> Update layers/meta-balena to f9543178d5ecb5b633cc139a0a56ce0b17ecce67 [balena-renovate[bot]] </summary>
+
+> ## meta-balena-6.10.20
+> ### (2026-01-26)
+> 
+> * Update actions/setup-python digest to a309ff8 [balena-renovate[bot]]
+> 
+> ## meta-balena-6.10.19
+> ### (2026-01-23)
+> 
+> * Further reduce the size of the balena bootloader by removing PTP clock support [Florin Sarbu]
+> 
+> ## meta-balena-6.10.18
+> ### (2026-01-21)
+> 
+> * initrdscripts: export IS_ROLLBACK and ROOT_PART flags from abroot script [Michal Toman]
+> * initrdscripts: add extrafw script [Michal Toman]
+> * initrdscripts: separate mounting boot partition from abroot [Michal Toman]
+> 
+> ## meta-balena-6.10.17
+> ### (2026-01-21)
+> 
+> * Update vacuum-size to 128M to match vacuum.conf and journald-balena-os.conf [Chris Sawer]
+> 
+> ## meta-balena-6.10.16
+> ### (2026-01-20)
+> 
+> * os-helpers: safe-reboot: always sync filesystem before reboot [Alex Gonzalez]
+> 
+> ## meta-balena-6.10.15
+> ### (2026-01-12)
+> 
+> * os-helpers/os-helpers-bootloader-config: Add support for whitelisted cmdline args [Alexandru Costache]
+> 
+> ## meta-balena-6.10.14
+> ### (2026-01-09)
+> 
+> * initrdscripts: Unlock mutex if regenerate_uuid fails in fsuuidsinit [Michal Toman]
+> 
+> ## meta-balena-6.10.13
+> ### (2026-01-08)
+> 
+> * tests/extra-firmware: Skip post-reboot extra-firmware check for a specific device [Alexandru Costache]
+> 
+> ## meta-balena-6.10.12
+> ### (2026-01-08)
+> 
+> * Reduce the size of the balena bootloader by removing unused functionality [Florin Sarbu]
+> 
+
+</details>
+
 # v6.10.11+rev8
 ## (2026-01-26)
 
