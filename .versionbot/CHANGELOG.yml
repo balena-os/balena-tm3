@@ -1,4 +1,43 @@
 - commits:
+    - subject: Update layers/meta-balena to 3238e53bf8221718b32066a36cddec8ecfafa979
+      hash: ad6e984a958a01fa4e59d4f716cd762431577aaa
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 3238e53bf8221718b32066a36cddec8ecfafa979
+        changelog-entry: Update layers/meta-balena to 3238e53bf8221718b32066a36cddec8ecfafa979
+      author: balena-renovate[bot]
+      nested:
+        - commits:
+            - subject: "classes/kernel-balena: Fix typo in kernel-balena.bbclass"
+              hash: 892d3d965db1a1fe02ba5e29d76a7e903570f28f
+              body: |
+                The variable allSetConfigs is not in this context and
+                it appears to be a typo. Replacing it with 'allSetKernelConfigs'
+                which appears to be the intended one.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alexandru Costache <alexandru@balena.io>
+                signed-off-by: Alexandru Costache <alexandru@balena.io>
+              author: Alexandru Costache
+              nested: []
+            - subject: Fix type allSetConfigs -> allSetKernelConfigs
+              hash: 60cdbc889156f816aee432897209f927ee339438
+              body: ""
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Christina Ying Wang <christina@balena.io>
+                signed-off-by: Christina Ying Wang <christina@balena.io>
+              author: Christina Ying Wang
+              nested: []
+          version: meta-balena-6.10.21
+          title: ""
+          date: 2026-01-26T21:36:10.894Z
+  version: 6.10.21
+  title: ""
+  date: 2026-01-27T04:24:28.679Z
+- commits:
     - subject: Update balena-yocto-scripts to d4705f993634d478dac6b2dedcc0dad87b97f43f
       hash: 9f2a7d4ff1e087418419e1b9752af4ce973a4957
       body: Update balena-yocto-scripts
