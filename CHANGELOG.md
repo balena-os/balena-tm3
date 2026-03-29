@@ -1,6 +1,12 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v6.12.3+rev1
+## (2026-03-29)
+
+* Update balena-os/github-workflows to [balena-renovate[bot]]
+* Update balena-yocto-scripts to 8774b8f641bd002becca624e213e0dba330205c8 [balena-renovate[bot]]
+
 # v6.12.3
 ## (2026-03-27)
 
